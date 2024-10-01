@@ -62,7 +62,7 @@ body {
   font-size: 36px;
   font-family: "Lato-Black";
   text-transform: uppercase;
-  background: -webkit-linear-gradient(left, #1d3ede, #01e6f8);
+  background: -webkit-linear-gradient(left, #000000, #000000);
   background: -ms-linear-gradient(left, #1d3ede, #01e6f8);
   background: -moz-linear-gradient(left, #1d3ede, #01e6f8);
   background: -o-linear-gradient(left, #1d3ede, #01e6f8);
@@ -96,7 +96,7 @@ body {
 #gtco-main-nav .navbar-nav li a {
   font-family: "OpenSans-Regular";
   font-size: 18px;
-  color: #666666;
+  color: #11ff00;
   padding: 5px 15px !important;
   text-transform: uppercase;
 }
@@ -791,3 +791,4 @@ body {
     margin-bottom: 50px;
   }
 }
+
